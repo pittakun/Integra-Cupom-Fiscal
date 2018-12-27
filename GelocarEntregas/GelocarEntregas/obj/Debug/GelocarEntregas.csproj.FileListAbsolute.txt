@@ -1,0 +1,13 @@
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\GelocarEntregas.exe.config
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\GelocarEntregas.exe
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\GelocarEntregas.pdb
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\obj\Debug\GelocarEntregas.csprojResolveAssemblyReference.cache
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\obj\Debug\GelocarEntregas.Form1.resources
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\obj\Debug\GelocarEntregas.Properties.Resources.resources
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\obj\Debug\GelocarEntregas.csproj.GenerateResource.Cache
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\obj\Debug\GelocarEntregas.exe
+c:\users\particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\obj\Debug\GelocarEntregas.pdb
+C:\Users\Particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\MySql.Data.dll
+C:\Users\Particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\Google.Protobuf.dll
+C:\Users\Particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\MySql.Data.xml
+C:\Users\Particular\documents\visual studio 2015\Projects\GelocarEntregas\GelocarEntregas\bin\Debug\PrinterUtility.dll
